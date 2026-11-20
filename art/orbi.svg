@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="512" height="512">
+  <rect width="128" height="128" fill="#F5F0DC"/>
+  <ellipse cx="64" cy="112" rx="26" ry="5" fill="#000" opacity=".15"/>
+  <!-- braços -->
+  <path d="M30 66H18M98 66h12" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round"/>
+  <!-- placas solares -->
+  <g stroke="#1A1A1A" stroke-width="3.5" stroke-linejoin="round">
+    <rect x="2" y="50" width="18" height="32" rx="4" fill="#B388FF"/>
+    <rect x="108" y="50" width="18" height="32" rx="4" fill="#FF5A5A"/>
+  </g>
+  <g stroke="#1A1A1A" stroke-width="2" opacity=".55">
+    <path d="M11 52v28M4 61h14M4 71h14"/><path d="M117 52v28M110 61h14M110 71h14"/>
+  </g>
+  <!-- antena -->
+  <path d="M64 34V18" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="64" cy="14" r="6" fill="#39FF88" stroke="#1A1A1A" stroke-width="3.5"/>
+  <!-- corpo -->
+  <circle cx="64" cy="68" r="34" fill="#FFC400" stroke="#1A1A1A" stroke-width="4"/>
+  <path d="M42 56c3-11 13-19 25-19" stroke="#FFF" stroke-width="5" stroke-linecap="round" fill="none" opacity=".6"/>
+  <!-- rosto -->
+  <ellipse cx="53" cy="64" rx="5" ry="7" fill="#1A1A1A"/>
+  <ellipse cx="75" cy="64" rx="5" ry="7" fill="#1A1A1A"/>
+  <circle cx="54.8" cy="61.5" r="1.8" fill="#FFF"/>
+  <circle cx="76.8" cy="61.5" r="1.8" fill="#FFF"/>
+  <ellipse cx="44" cy="76" rx="5" ry="3.2" fill="#FF8A80" opacity=".8"/>
+  <ellipse cx="84" cy="76" rx="5" ry="3.2" fill="#FF8A80" opacity=".8"/>
+  <path d="M54 78q10 9 20 0" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>
