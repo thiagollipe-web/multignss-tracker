@@ -4,6 +4,8 @@
 
 App Android que lê **GLONASS (Rússia)**, **Galileo (UE)** e **BeiDou (China)** direto do chip GNSS do celular, com mapa offline e navegação passo a passo — sem Google Play Services e sem chave de API.
 
+**[⬇️ Baixar o APK (última versão)](https://github.com/thiagollipe-web/multignss-tracker/releases/latest)** — Android 8.0+
+
 Mascote: **Orbi**, um satélite amarelo (feliz, piscando, dormindo à noite, alerta no radar).
 
 ## Funções
